@@ -22,7 +22,7 @@ def fruit_into_baskets(fruits):
 
   return max_
 
-#Write a function to calculate the maximum number 
+#Write a function to calculate the maximum number  
 # of fruits you can collect from an integer array fruits, 
 # where each element represents a type of fruit. You can start collecting 
 # fruits from any position in the array, but you must stop once you 
